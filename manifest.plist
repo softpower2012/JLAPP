@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.180.160.129:8090/ServerMobile/downloads/mres.ipa</string>
+					<string>http://111.26.17.73:17003/downloads/app_IOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://221.180.160.129:8090/ServerMobile/downloads/icon57x57.png</string>
+					<string>http://111.26.17.73:17003/downloads/icon-20.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://221.180.160.129:8090/ServerMobile/downloads/icon57x57.png</string>
+					<string>http://111.26.17.73:17003/downloads/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
